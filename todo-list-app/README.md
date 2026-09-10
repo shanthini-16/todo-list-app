@@ -32,10 +32,6 @@ A beautiful and functional To-Do List application built with HTML, CSS, and Java
 2. Open `index.html` in your browser
 3. Start adding tasks!
 
-## 📸 Screenshot
-
-(Add your screenshot here)
-
 ## 👨‍💻 What I Learned
 
 - DOM manipulation
@@ -44,9 +40,3 @@ A beautiful and functional To-Do List application built with HTML, CSS, and Java
 - CSS animations and gradients
 - Responsive design principles
 
-## 🔜 Future Improvements
-
-- Backend integration (Firebase)
-- User login functionality
-- Cloud sync across devices
-- Due dates and priorities
